@@ -1,0 +1,11 @@
+.vscode
+.*env
+__pycache__
+build
+dist
+wtmp
+main.py_old
+*.whl
+wxPython-*
+borosconfigV*.spec
+

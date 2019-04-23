@@ -1,0 +1,6 @@
+# Requirements
+wxPython>=4.0.4
+pyserial>=3.4
+# Dev Requirements
+#PyInstaller>=3.4
+#pyLint>=
